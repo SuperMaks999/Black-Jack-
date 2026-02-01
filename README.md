@@ -1,1 +1,1 @@
-# I was boring and wrote this
+# I was bored and wrote this
