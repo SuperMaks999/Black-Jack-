@@ -1,2 +1,1 @@
-# spidoznyje_koziawki
-Black Jack simulation
+# I was boring and wrote this
